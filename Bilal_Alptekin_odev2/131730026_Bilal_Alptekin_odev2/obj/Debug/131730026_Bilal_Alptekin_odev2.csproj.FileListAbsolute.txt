@@ -1,0 +1,10 @@
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\obj\Debug\131730026_Bilal_Alptekin_odev2.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\obj\Debug\_131730026_Bilal_Alptekin_odev2.Form1.resources
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\obj\Debug\_131730026_Bilal_Alptekin_odev2.Properties.Resources.resources
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\obj\Debug\131730026_Bilal_Alptekin_odev2.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\obj\Debug\131730026_Bilal_Alptekin_odev2.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\bin\Debug\131730026_Bilal_Alptekin_odev2.exe.config
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\bin\Debug\131730026_Bilal_Alptekin_odev2.exe
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\bin\Debug\131730026_Bilal_Alptekin_odev2.pdb
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\obj\Debug\131730026_Bilal_Alptekin_odev2.exe
+C:\Users\bilal\source\repos\131730026_Bilal_Alptekin_odev2\131730026_Bilal_Alptekin_odev2\obj\Debug\131730026_Bilal_Alptekin_odev2.pdb

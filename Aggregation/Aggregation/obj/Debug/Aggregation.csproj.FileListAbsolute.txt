@@ -1,0 +1,10 @@
+C:\Users\bilal\source\repos\Aggregation\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Users\bilal\source\repos\Aggregation\Aggregation\bin\Debug\Aggregation.exe
+C:\Users\bilal\source\repos\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
+C:\Users\bilal\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.Form1.resources
+C:\Users\bilal\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.Properties.Resources.resources
+C:\Users\bilal\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.exe
+C:\Users\bilal\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "131730026_Bilal_Alptekin_odev1", "131730026_Bilal_Alptekin_odev1\131730026_Bilal_Alptekin_odev1.csproj", "{944ACA9E-ED34-4D3D-BBBE-F4825C83C75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944ACA9E-ED34-4D3D-BBBE-F4825C83C75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944ACA9E-ED34-4D3D-BBBE-F4825C83C75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944ACA9E-ED34-4D3D-BBBE-F4825C83C75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944ACA9E-ED34-4D3D-BBBE-F4825C83C75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4607D99-C030-4D57-9AFB-62415E83F6C8}
+	EndGlobalSection
+EndGlobal
